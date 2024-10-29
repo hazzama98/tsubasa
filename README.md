@@ -7,13 +7,15 @@ TELEGRAM Channel LINK 1: [Link Channel Telegram](https://t.me/UxScript)
 TELEGRAM Channel LINK 2: [Link Channel Telegram](https://t.me/ISB_Dev)
 
 ## Features:
-- Automatic Tap
-- Upgrade Tap
-- Upgrade Energy
-- Upgrade Card
-- Daily Rewards
-- Auto Task (Not All)
-- Setting in config.json
+| Feature                    | Supported |
+|----------------------------|:---------:|
+| Auto Tap                   |    ✅     |
+| Tap Upgrades               |    ✅     |
+| Energy Upgrades            |    ✅     |
+| Card Upgrades              |    ✅     |
+| Daily Rewards              |    ✅     |
+| Automatic Tasks (Not All)  |    ✅     |
+| Configurable in config.json|    ✅     |
 
 ## Upcoming Features:
 - (Coming Soon)
