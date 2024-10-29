@@ -1,0 +1,19 @@
+{
+    "features": {
+        "autoTap": true,
+        "tapUpgrades": true,
+        "energyUpgrades": true,
+        "cardUpgrades": true,
+        "dailyRewards": true,
+        "taskExecution": true
+    },
+    "delays": {
+        "cooldownWait": 5
+    },
+    "upgrades": {
+        "maxCardUpgradeCost": 100000,
+        "maxCardLevel": 5,
+        "maxTapUpgradeLevel": 10,
+        "maxEnergyUpgradeLevel": 10
+    }
+}
